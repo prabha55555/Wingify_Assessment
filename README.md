@@ -790,5 +790,8 @@ The system is now fully functional, scalable, and ready to handle real-world fin
 MIT License
 
 ## 👨‍💻 Author
-
-AI Internship Assignment - B.Tech 2024/2025/2026 Batch
+Prabhakaran K
+KPR Institute of Engineering and Technology
+9791901552
+k.prabhakaran.in@gmail.com
+AI Internship Assignment - B.Tech 2026 Batch
